@@ -86,9 +86,8 @@ Currently Pursuing
 
 💼 GitHub: @shakeelahmed4007-design
 
-🔗 Portfolio: [Your Portfolio Link]
+🔗 Portfolio: https://my-portfolio-3n1q.vercel.app/
 
-💻 LinkedIn: [Your LinkedIn Profile]
 
 🎯 Currently Working On
 🚀 Building scalable React applications
